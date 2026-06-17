@@ -187,11 +187,6 @@ Progress: 1/100 Days Completed
 
 ---
 
-## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
----
 
 ⭐ If you find this repository useful, don't forget to star it!
