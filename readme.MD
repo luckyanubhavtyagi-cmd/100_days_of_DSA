@@ -27,11 +27,11 @@ This repository documents my **100 Days of Data Structures and Algorithms (DSA) 
 ### Week 1: Basics
 
 - [x] Day 1 - Add Two Numbers
-- [ ] Day 2 - Palindrome Number
-- [ ] Day 3 - Prime Number
-- [ ] Day 4 - Fibonacci Series
-- [ ] Day 5 - Factorial Number
-- [ ] Day 6 - Armstrong Number
+- [x] Day 2 - Palindrome Number
+- [x] Day 3 - Prime Number
+- [x] Day 4 - Fibonacci Series
+- [x] Day 5 - Factorial Number
+- [x] Day 6 - Armstrong Number
 - [ ] Day 7 - Reverse a Number
 
 ### Week 2: Patterns & Loops
@@ -187,11 +187,6 @@ Progress: 1/100 Days Completed
 
 ---
 
-## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
----
 
 ⭐ If you find this repository useful, don't forget to star it!
