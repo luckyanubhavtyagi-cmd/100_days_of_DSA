@@ -32,11 +32,11 @@ This repository documents my **100 Days of Data Structures and Algorithms (DSA) 
 - [x] Day 4 - Fibonacci Series
 - [x] Day 5 - Factorial Number
 - [x] Day 6 - Armstrong Number
-- [ ] Day 7 - Reverse a Number
+- [x] Day 7 - Reverse a Number
 
 ### Week 2: Patterns & Loops
 
-- [ ] Day 8 - Star Pattern 1
+- [x] Day 8 - Star Pattern 1
 - [ ] Day 9 - Star Pattern 2
 - [ ] Day 10 - Number Pattern
 - [ ] Day 11 - Sum of Digits
